@@ -1,0 +1,30 @@
+Concordia College GHG 2017-2024 Power BI Dashboards
+
+Folder: detailed_level
+	- Contains granular data by source/category/site—ideal if 
+	your visual needs to filter, drill down by department, building, 
+	emission source, etc. 
+	
+	- What can I do with these ones?
+		- Use these if you want to filter, drill down, or create 
+		highly customized charts beyond campus-wide totals.
+	
+Folder: high_level
+	- These provide yearly campus-wide totals for Scope 1, Scope 2, 
+	and Scope 3, and cover categories like electricity, 
+	transportation, purchasing, and more.
+	
+	- What can I do with these ones? 
+		- Perfect for summary dashboards, time series, and 
+		aggregate analysis, since the structure is already 
+		summarized by fiscal year and major sector.
+		
+Example dashboards: 
+	- https://www.uvm.edu/sustainabilityoffice/greenhouse-gas-inventory 
+	
+	
+	https://unhsimap.org/public/institution/759?graph_type=bar&op=Change
+	https://app.powerbi.com/view?r=eyJrIjoiNzRhNWZhZjktMTNlNC00YzQwLTgzMjAtMjM5YmYyNWMwMTA2IiwidCI6IjFjMTc3NzU4LTRkNmItNDNkYy1hYWViLTNiOWM0MjU2Mjk2NyIsImMiOjN9&pageName=a98d579fb910fc1fcccc
+	
+		
+
